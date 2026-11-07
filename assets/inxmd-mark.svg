@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">INXMD mark</title>
+  <desc id="desc">A black and white editorial monogram for INXMD.</desc>
+  <rect width="64" height="64" fill="#ecece8"/>
+  <rect x="4" y="4" width="56" height="56" fill="none" stroke="#151515" stroke-width="2"/>
+  <path d="M16 45V19m0 13 20-13v26m0-13 12 13M36 19l12 13" fill="none" stroke="#151515" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M10 52h44" fill="none" stroke="#6f706d" stroke-width="1"/>
+  <text x="32" y="56.5" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="5" font-weight="700" letter-spacing="1.1" text-anchor="middle">INXMD</text>
+</svg>

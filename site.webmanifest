@@ -1,0 +1,17 @@
+{
+  "name": "INXMD / Lookbook",
+  "short_name": "INXMD",
+  "description": "A responsive editorial grid for arranging 30 monochrome portraits.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ecece8",
+  "theme_color": "#ecece8",
+  "icons": [
+    {
+      "src": "assets/inxmd-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

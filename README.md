@@ -2,6 +2,8 @@
 
 Responsive static lookbook page for the 30 generated portraits in `images/`.
 
+The site metadata, Open Graph preview, favicon, and web app manifest use the same monochrome editorial visual language. The social preview is stored at `assets/og-preview.png`; the scalable INXMD mark is stored at `assets/inxmd-mark.svg`.
+
 ## Interaction
 
 - Drag one portrait onto another to swap their positions.
