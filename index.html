@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ecece8" />
+    <title>INXMD / Lookbook</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="site-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">INXMD / LOOKBOOK 30</p>
+          <h1>Arrange the lookbook</h1>
+        </div>
+        <div class="actions" aria-label="Lookbook controls">
+          <button id="shuffleButton" class="button button-dark" type="button">Shuffle</button>
+          <button id="resetButton" class="button" type="button">Reset</button>
+        </div>
+      </header>
+
+      <section class="intro" aria-label="Instructions">
+        <p>Drag any portrait onto another to swap their places. On touch screens, tap two portraits. Use the arrow keys after selecting a tile.</p>
+        <p id="status" class="status" aria-live="polite">30 portraits / 6 × 5 grid</p>
+      </section>
+
+      <section id="grid" class="lookbook-grid" aria-label="Draggable lookbook portraits"></section>
+    </main>
+    <script src="script.js" defer></script>
+  </body>
+</html>
